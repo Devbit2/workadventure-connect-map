@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -50,7 +50,7 @@
                  "value":"Press Space to join the General Session"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -68,7 +68,7 @@
                  "value":"https:\/\/morning-lake-e0ac.traintest.workers.dev\/tdx-kvha-kff"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -86,7 +86,7 @@
                  "value":"https:\/\/royal-resonance-3551.traintest.workers.dev\/l\/meetup-join\/19%3ameeting_NTk3YTUzYWUtMzZiMS00ZmE2LWE0ZGMtYTM3ZjJjZWNhZGQz%40thread.v2\/0?context=%7b%22Tid%22%3a%2221c0c1e7-cedd-4a76-b947-f20766949882%22%2c%22Oid%22%3a%22753b12c2-5018-4013-8f4d-346c44179d6f%22%7d"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -104,7 +104,7 @@
                  "value":"https:\/\/hp.zoom.com\/j\/96648348974?pwd=SXo2TU13SHZMLzJ2VGRqa1pYMWk3Zz09"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -116,7 +116,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -128,7 +128,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -156,7 +156,7 @@
                  "value":"Press Space to join the breakout"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
