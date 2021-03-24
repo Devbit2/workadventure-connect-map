@@ -65,7 +65,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/royal-resonance-3551.traintest.workers.devdl\/launcher\/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTk3YTUzYWUtMzZiMS00ZmE2LWE0ZGMtYTM3ZjJjZWNhZGQz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252221c0c1e7-cedd-4a76-b947-f20766949882%2522%252c%2522Oid%2522%253a%2522753b12c2-5018-4013-8f4d-346c44179d6f%2522%257d%3A80&type=meetup-join&deeplinkId=e690b26a-9d5a-4b19-85d3-93c383375b5c&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+                 "value":"https:\/\/royal-resonance-3551.traintest.workers.dev\/dl\/launcher\/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTk3YTUzYWUtMzZiMS00ZmE2LWE0ZGMtYTM3ZjJjZWNhZGQz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252221c0c1e7-cedd-4a76-b947-f20766949882%2522%252c%2522Oid%2522%253a%2522753b12c2-5018-4013-8f4d-346c44179d6f%2522%257d%3A80&type=meetup-join&deeplinkId=e690b26a-9d5a-4b19-85d3-93c383375b5c&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
                 }],
          "type":"tilelayer",
          "visible":true,
