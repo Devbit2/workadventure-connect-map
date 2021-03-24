@@ -35,6 +35,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/https:\/\/vimeo.com\/385127932"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -43,11 +48,6 @@
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press Space to join the General Session"
-                }, 
-                {
-                 "name":"openwebsite",
-                 "type":"string",
-                 "value":"https:\/\/https:\/\/vimeo.com\/385127932"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,7 +62,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
