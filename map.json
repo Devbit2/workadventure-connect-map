@@ -65,7 +65,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/morning-lake-e0ac.traintest.workers.dev\/tdx-kvha-kff"
+                 "value":"https:\/\/morning-lake-e0ac.traintest.workers.dev\/"
                 }],
          "type":"tilelayer",
          "visible":true,
