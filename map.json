@@ -65,7 +65,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_NTk3YTUzYWUtMzZiMS00ZmE2LWE0ZGMtYTM3ZjJjZWNhZGQz%40thread.v2\/0?context=%7b%22Tid%22%3a%2221c0c1e7-cedd-4a76-b947-f20766949882%22%2c%22Oid%22%3a%22753b12c2-5018-4013-8f4d-346c44179d6f%22%7d"
+                 "value":"https:\/\/trainingteamtest.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
