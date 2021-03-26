@@ -964,17 +964,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":16,
          "firstgid":321,
-         "image":"bXwt2GT.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"alpha",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"alpha.tsx"
         }],
  "tilewidth":32,
  "type":"map",
