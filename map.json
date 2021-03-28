@@ -232,6 +232,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/vimeo.com\/showcase\/8163061\/embed"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"mozallowfullscreen webkitallowfullscreen allowfullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
