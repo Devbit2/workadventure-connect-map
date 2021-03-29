@@ -138,6 +138,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/hp.zoom.com\/j\/96648348974?pwd=SXo2TU13SHZMLzJ2VGRqa1pYMWk3Zz09"
+                }, 
+                {
+                 "name":"openWebsiteProperty",
+                 "type":"string",
+                 "value":"camera microphone fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
